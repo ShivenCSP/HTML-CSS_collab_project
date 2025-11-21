@@ -20,11 +20,11 @@ ul, table {
 }
 
 .left {
-    margin-left: 30%;
+    margin-right: 50%;
 }
 
 .right {
-    margin-right: 70%;
+    margin-left: 50%;
 }
 
 table {
